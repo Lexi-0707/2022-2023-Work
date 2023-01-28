@@ -1,4 +1,3 @@
-#Alexis Ellis
 #1/25/23
 
 # websites used: https://realpython.com/python-string-contains-substring/
