@@ -1,4 +1,3 @@
-#Alexis Ellis
 #1/25/23
 
 # wesbites used: https://www.quora.com/How-do-I-add-new-line-in-the-first-line-in-a-text-file-using-Python
