@@ -20,3 +20,4 @@ while guess != randomNumber:
     guess = int(input("Please enter a guess."))
 
 print("Congrats on guessing the correct number. Your total numbers of guesses is", counter)
+ 
