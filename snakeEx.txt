@@ -1,0 +1,6 @@
+This is the snake file
+It is a test of reading certain data from a file
+only lines with the word snake in them should be printed in your program
+other lines should not be printed
+that will show your program works properly
+good luck with the snake

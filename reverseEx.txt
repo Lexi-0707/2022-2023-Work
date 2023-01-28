@@ -1,0 +1,6 @@
+This is the reverse order file
+it contains infomatiion to be moved around by your code
+it should be backwards from this when you are finished
+that means you have done the program correctly
+don't forget to comment your code appropriately
+hope you learn your lesson here
