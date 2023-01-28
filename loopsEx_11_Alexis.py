@@ -1,6 +1,6 @@
 import random
 
-# Alexis Ellis 1/12/23
+# 1/12/23
 
 diceRolls = []
 randomNumber = 0 
